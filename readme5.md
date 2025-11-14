@@ -28,7 +28,7 @@
 
 ---
 
-## 🌸 What This Hub Delivers  {#features}
+## 🌸 What This Hub Delivers  
 
 A centralized deployment ecosystem designed to:
 
@@ -46,7 +46,7 @@ A centralized deployment ecosystem designed to:
 
 ---
 
-## 🧩 Tech Stack  {#tech-stack}
+## 🧩 Tech Stack  
 
 <div align="center">
 
@@ -79,7 +79,7 @@ deployments/
 
 ---
 
-## ⚡ Getting Started  {#getting-started}
+## ⚡ Getting Started  
 
 ### 1️⃣ Build a Docker Image
 ```sh
